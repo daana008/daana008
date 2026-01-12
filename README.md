@@ -1,5 +1,5 @@
 ## Hi there 👋
-my name
+My name is Alexander and I am a student at Elvebakken videregående skole, where i study IT. I am proficiant in both javascript and python and I am always ready to learn a new language. In my free time I enjoy reading books, playing video games and working on IT related projects.
 <!--
 **daana008/daana008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
